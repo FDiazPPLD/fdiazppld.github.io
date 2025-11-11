@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artículos - FedeBlog</title>
+    <link>https://fdiazppld.github.io/posts/</link>
+    <description>Blog personal de desarrollo de software enfocado en BackEnd con Java y Spring</description>
+    <generator>Hugo 0.152.2 &amp; FixIt v0.4.0-alpha.2-20251023040336-063af2cd</generator>
+    <language>es</language>
+    <managingEditor>fdiazppld@outlook.com (Federico PPLD)</managingEditor>
+    <webMaster>fdiazppld@outlook.com (Federico PPLD)</webMaster>
+    <lastBuildDate>Tue, 11 Nov 2025 10:00:00 -0300</lastBuildDate>
+    <atom:link href="https://fdiazppld.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fundamentos de SQL - Parte 1: Operaciones Básicas</title>
+      <link>https://fdiazppld.github.io/posts/fundamentos-sql-parte-1/</link>
+      <pubDate>Tue, 11 Nov 2025 10:00:00 -0300</pubDate><author>fdiazppld@outlook.com (Federico PPLD)</author>
+      <guid>https://fdiazppld.github.io/posts/fundamentos-sql-parte-1/</guid>
+      <description>&lt;p&gt;Estoy haciendo un curso de Bases de datos y SQL, con el objetivo de ir adelantándome un poco a la carrera que voy a empezar el año que viene. Planeo escribir una serie de posts para ir documentando y compartiendo lo que voy aprendiendo/reforzando sobre el tema.&lt;/p&gt;&#xA;&lt;p&gt;Vamos con el primer post de la serie:&#xA;SQL (Structured Query Language) es el lenguaje estándar para trabajar con bases de datos relacionales. En esta ocasión, voy a tratar las operaciones fundamentales que necesitás conocer para empezar a trabajar con bases de datos.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

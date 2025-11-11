@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Capacitaciones - FedeBlog</title>
-    <link>http://localhost:1313/capacitaciones/</link>
+    <link>https://fdiazppld.github.io/capacitaciones/</link>
     <description>Blog personal de desarrollo de software enfocado en BackEnd con Java y Spring</description>
     <generator>Hugo 0.152.2 &amp; FixIt v0.4.0-alpha.2-20251023040336-063af2cd</generator>
     <language>es</language>
     <managingEditor>fdiazppld@outlook.com (Federico PPLD)</managingEditor>
     <webMaster>fdiazppld@outlook.com (Federico PPLD)</webMaster>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/capacitaciones/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://fdiazppld.github.io/capacitaciones/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

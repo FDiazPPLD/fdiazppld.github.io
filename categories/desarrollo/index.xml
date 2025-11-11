@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Desarrollo - Categoría - FedeBlog</title>
+    <link>http://localhost:1313/categories/desarrollo/</link>
+    <description>Blog personal de desarrollo de software enfocado en BackEnd con Java y Spring</description>
+    <generator>Hugo 0.152.2 &amp; FixIt v0.4.0-alpha.2-20251023040336-063af2cd</generator>
+    <language>es</language>
+    <managingEditor>fdiazppld@outlook.com (Federico PPLD)</managingEditor>
+    <webMaster>fdiazppld@outlook.com (Federico PPLD)</webMaster>
+    <lastBuildDate>Tue, 11 Nov 2025 10:00:00 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/desarrollo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fundamentos de SQL - Parte 1: Operaciones Básicas</title>
+      <link>http://localhost:1313/posts/fundamentos-sql-parte-1/</link>
+      <pubDate>Tue, 11 Nov 2025 10:00:00 -0300</pubDate><author>fdiazppld@outlook.com (Federico PPLD)</author>
+      <guid>http://localhost:1313/posts/fundamentos-sql-parte-1/</guid>
+      <category domain="http://localhost:1313/categories/desarrollo/">Desarrollo</category>
+      <description>&lt;p&gt;SQL (Structured Query Language) es el lenguaje estándar para trabajar con bases de datos relacionales. En este primer post de la serie, voy a cubrir las operaciones fundamentales que necesitás conocer para empezar a trabajar con bases de datos.&lt;/p&gt;&#xA;&lt;h2 class=&#34;heading-element&#34; id=&#34;crear-tablas&#34;&gt;&lt;span&gt;Crear Tablas&lt;/span&gt;&#xD;&#xA;  &lt;a href=&#34;#crear-tablas&#34; class=&#34;heading-mark&#34;&gt;&#xD;&#xA;    &lt;svg class=&#34;octicon octicon-link&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;Para crear una tabla usamos &lt;code&gt;CREATE TABLE&lt;/code&gt;, definiendo cada columna con su tipo de dato y restricciones:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
