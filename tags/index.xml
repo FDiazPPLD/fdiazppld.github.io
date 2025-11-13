@@ -8,19 +8,26 @@
     <language>es</language>
     <managingEditor>fdiazppld@outlook.com (Federico PPLD)</managingEditor>
     <webMaster>fdiazppld@outlook.com (Federico PPLD)</webMaster>
-    <lastBuildDate>Tue, 11 Nov 2025 10:00:00 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 13 Nov 2025 10:00:00 -0300</lastBuildDate>
     <atom:link href="https://fdiazppld.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bases De Datos</title>
       <link>https://fdiazppld.github.io/tags/bases-de-datos/</link>
-      <pubDate>Tue, 11 Nov 2025 10:00:00 -0300</pubDate><author>fdiazppld@outlook.com (Federico PPLD)</author>
+      <pubDate>Thu, 13 Nov 2025 10:00:00 -0300</pubDate><author>fdiazppld@outlook.com (Federico PPLD)</author>
       <guid>https://fdiazppld.github.io/tags/bases-de-datos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Curso SQL</title>
+      <link>https://fdiazppld.github.io/tags/curso-sql/</link>
+      <pubDate>Thu, 13 Nov 2025 10:00:00 -0300</pubDate><author>fdiazppld@outlook.com (Federico PPLD)</author>
+      <guid>https://fdiazppld.github.io/tags/curso-sql/</guid>
       <description></description>
     </item>
     <item>
       <title>SQL</title>
       <link>https://fdiazppld.github.io/tags/sql/</link>
-      <pubDate>Tue, 11 Nov 2025 10:00:00 -0300</pubDate><author>fdiazppld@outlook.com (Federico PPLD)</author>
+      <pubDate>Thu, 13 Nov 2025 10:00:00 -0300</pubDate><author>fdiazppld@outlook.com (Federico PPLD)</author>
       <guid>https://fdiazppld.github.io/tags/sql/</guid>
       <description></description>
     </item>

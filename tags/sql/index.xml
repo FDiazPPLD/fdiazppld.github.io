@@ -8,10 +8,17 @@
     <language>es</language>
     <managingEditor>fdiazppld@outlook.com (Federico PPLD)</managingEditor>
     <webMaster>fdiazppld@outlook.com (Federico PPLD)</webMaster>
-    <lastBuildDate>Tue, 11 Nov 2025 10:00:00 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 13 Nov 2025 10:00:00 -0300</lastBuildDate>
     <atom:link href="https://fdiazppld.github.io/tags/sql/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Fundamentos de SQL - Parte 1: Operaciones Básicas</title>
+      <title>Curso de SQL - Notas 2: Consultas Avanzadas y Agregaciones</title>
+      <link>https://fdiazppld.github.io/posts/fundamentos-sql-parte-2/</link>
+      <pubDate>Thu, 13 Nov 2025 10:00:00 -0300</pubDate><author>fdiazppld@outlook.com (Federico PPLD)</author>
+      <guid>https://fdiazppld.github.io/posts/fundamentos-sql-parte-2/</guid>
+      <description>&lt;p&gt;Seguimos con la segunda parte del curso de SQL. En el &lt;a href=&#34;https://fdiazppld.github.io/posts/fundamentos-sql-parte-1&#34;&gt;post anterior&lt;/a&gt; vimos las operaciones básicas, y ahora vamos a profundizar en cómo consultar y analizar datos de forma más efectiva.&lt;/p&gt;&#xA;&lt;p&gt;Para los ejemplos voy a seguir usando la tabla &lt;code&gt;usuarios&lt;/code&gt; que creamos antes, pero vamos a agregar algunos datos más para que tenga sentido usar estas funciones.&lt;/p&gt;&#xA;&lt;h2 class=&#34;heading-element&#34; id=&#34;order-by&#34;&gt;&lt;span&gt;ORDER BY&lt;/span&gt;&#xD;&#xA;  &lt;a href=&#34;#order-by&#34; class=&#34;heading-mark&#34;&gt;&#xD;&#xA;    &lt;svg class=&#34;octicon octicon-link&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;&lt;code&gt;ORDER BY&lt;/code&gt; ordena los resultados según una o más columnas. Por defecto ordena de forma ascendente (&lt;code&gt;ASC&lt;/code&gt;), también podés usar &lt;code&gt;DESC&lt;/code&gt; para orden descendente:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Curso de SQL - Notas 1: Operaciones Básicas</title>
       <link>https://fdiazppld.github.io/posts/fundamentos-sql-parte-1/</link>
       <pubDate>Tue, 11 Nov 2025 10:00:00 -0300</pubDate><author>fdiazppld@outlook.com (Federico PPLD)</author>
       <guid>https://fdiazppld.github.io/posts/fundamentos-sql-parte-1/</guid>

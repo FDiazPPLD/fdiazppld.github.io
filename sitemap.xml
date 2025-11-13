@@ -2,36 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://fdiazppld.github.io/tags/bases-de-datos/</loc>
-    <lastmod>2025-11-11T10:00:00-03:00</lastmod>
+    <lastmod>2025-11-13T10:00:00-03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://fdiazppld.github.io/posts/fundamentos-sql-parte-2/</loc>
+    <lastmod>2025-11-13T10:00:00-03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://fdiazppld.github.io/tags/curso-sql/</loc>
+    <lastmod>2025-11-13T10:00:00-03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://fdiazppld.github.io/</loc>
-    <lastmod>2025-11-11T10:00:00-03:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://fdiazppld.github.io/posts/fundamentos-sql-parte-1/</loc>
-    <lastmod>2025-11-11T10:00:00-03:00</lastmod>
+    <lastmod>2025-11-13T10:00:00-03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://fdiazppld.github.io/posts/</loc>
-    <lastmod>2025-11-11T10:00:00-03:00</lastmod>
+    <lastmod>2025-11-13T10:00:00-03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://fdiazppld.github.io/tags/sql/</loc>
-    <lastmod>2025-11-11T10:00:00-03:00</lastmod>
+    <lastmod>2025-11-13T10:00:00-03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://fdiazppld.github.io/tags/</loc>
+    <lastmod>2025-11-13T10:00:00-03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://fdiazppld.github.io/posts/fundamentos-sql-parte-1/</loc>
     <lastmod>2025-11-11T10:00:00-03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Artículos - FedeBlog</title>
-    <link>https://fdiazppld.github.io/posts/</link>
+    <title>Curso SQL - Etiqueta - FedeBlog</title>
+    <link>https://fdiazppld.github.io/tags/curso-sql/</link>
     <description>Blog personal de desarrollo de software enfocado en BackEnd con Java y Spring</description>
     <generator>Hugo 0.152.2 &amp; FixIt v0.4.0-alpha.2-20251023040336-063af2cd</generator>
     <language>es</language>
     <managingEditor>fdiazppld@outlook.com (Federico PPLD)</managingEditor>
     <webMaster>fdiazppld@outlook.com (Federico PPLD)</webMaster>
     <lastBuildDate>Thu, 13 Nov 2025 10:00:00 -0300</lastBuildDate>
-    <atom:link href="https://fdiazppld.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://fdiazppld.github.io/tags/curso-sql/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Curso de SQL - Notas 2: Consultas Avanzadas y Agregaciones</title>
       <link>https://fdiazppld.github.io/posts/fundamentos-sql-parte-2/</link>
